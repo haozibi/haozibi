@@ -1,5 +1,3 @@
-### Hi there 👋
-
-**Hello, World.**
+### Hello, World.
 
 - [https://haozi.bi](https://haozi.bi)
